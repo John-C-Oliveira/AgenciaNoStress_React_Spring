@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#buttoncrud {
+
+  margin: 0 15px;
+
+}
+
+#logo {
+  height: "50";
+  width: 50px;
+}
+
+.backgroundprincipal {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 0;
+
+}
+
+#card-container {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin-top: 80px;
+  flex-direction: column;
+
+}
+
+.cards {
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 2rem 0;
+
+}
+.carousel-container{
+  margin-top: 80px;
+}
+#outlined-basic{
+  margin-top: 10px !important;
+
+  
+}
+#desingcadastro div{
+   margin: 5px 0;
+   width: 400px;
+   
+
+}
+.margintop{
+  margin-top: 80px;
+}
+.margintop h3{
+  margin: 5px 0;
+  color:rgb(8, 110, 168);
+}
